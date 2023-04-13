@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "cypress": "^12.9.0",
     "jsdom": "^21.1.1",
     "vite": "^4.2.0",
     "vitest": "^0.30.1"
